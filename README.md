@@ -68,12 +68,12 @@ Server will start on:
 
 http://localhost:3000
 📬 API Endpoints
-Method	Endpoint	Description
-GET	/users	Fetch all users
-GET	/users/:id	Fetch a single user
-POST	/user	Create a new user
-PUT	/user/:id	Update an existing user
-DELETE	/user/:id	Delete a user
+Method	   Endpoint	       Description
+GET	       /users	         Fetch all users
+GET	      /users/:id	     Fetch a single user
+POST	    /user            Create a new user
+PUT	      /user/:id	       Update an existing user
+DELETE	  /user/:id	       Delete a user
 
 
 
