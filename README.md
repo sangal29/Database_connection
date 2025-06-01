@@ -48,9 +48,7 @@ restful-api/
 git clone https://github.com/sangal29/restful-api.git
 cd restful-api
 2. Install Dependencies
-bash
-Copy
-Edit
+
 npm install
 3. Configure MongoDB Atlas
 Replace the placeholder in server.js with your own MongoDB Atlas connection string:
